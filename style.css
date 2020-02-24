@@ -1,0 +1,19 @@
+body{
+    background: linear-gradient( to left, rgb(161, 161, 161), rgb(255, 255, 255));  
+}
+.container {
+  margin: 7% 20% 0% 20%;  
+}
+
+.tel {
+text-decoration: none;
+}
+
+.vk {
+  text-decoration: none;
+}
+
+/* .spoiler-title{
+  cursor:pointer;} */
+/* .spoiler-body{
+  display:none;background:#f1f1f1;} */
